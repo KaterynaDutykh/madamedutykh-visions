@@ -8,10 +8,4 @@ resources:
     title: 
     params:
       cover: true 
-  - src: Louvre_img_2.0.jpeg
-    title: 
-  - src: Louvre_img_2.1.jpeg
-    title: 
-  - src: Louvre_img_3.jpeg
-    title: 
 ---

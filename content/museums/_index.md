@@ -6,7 +6,7 @@ weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:
-  - src: DSCF1128.jpeg
+  - src: Louvre_img_3.0.jpeg
     params:
       cover: true
 ---
