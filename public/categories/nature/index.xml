@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature on Gallery</title>
+    <link>https://github.com/KaterynaDutykh/madamedutykh-visions.git/categories/nature/</link>
+    <description>Recent content in Nature on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bketrin@gmail.com (Kateryna Dutykh)</managingEditor>
+    <webMaster>bketrin@gmail.com (Kateryna Dutykh)</webMaster>
+    <copyright>© Kateryna Dutykh</copyright><atom:link href="https://github.com/KaterynaDutykh/madamedutykh-visions.git/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nature</title>
+      <link>https://github.com/KaterynaDutykh/madamedutykh-visions.git/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>bketrin@gmail.com (Kateryna Dutykh)</author>
+      <guid>https://github.com/KaterynaDutykh/madamedutykh-visions.git/nature/</guid>
+        <media:content url="https://github.com/KaterynaDutykh/madamedutykh-visions.git/nature/DSCF1783_hu_f2f2149974f946f4.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://github.com/KaterynaDutykh/madamedutykh-visions.git/nature/DSCF1783_hu_f2f2149974f946f4.jpeg&quot; /&gt;
+          &lt;p&gt;Nature in the UAE — wild and man-made — that I’ve been fortunate to capture.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
